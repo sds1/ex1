@@ -22,11 +22,11 @@ a.fn.owlCarousel.Constructor.Plugins.Animate=e}(window.Zepto||window.jQuery,wind
 	    responsive:{
 	        0:{
 	            items:1,
-	            nav:false
+	            nav:true
 	        },
 	        300:{
-	            items:2,
-	            nav:false
+	            items:1,
+	            nav:true
 	        },
 	        600:{
 	            items:3,
