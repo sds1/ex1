@@ -48,7 +48,7 @@
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{background:#869791;}
 
 
-@font-face{font-family:'Open Sans';src:url("../fonts/OpenSans-Regular.ttf");font-weight:normal;font-style:normal;}
+@font-face{font-family:'Open Sans';src:url("../fonts/OpenSans-Regular.eot"),url("../fonts/OpenSans-Regular.ttf");font-weight:normal;font-style:normal;}
 html{min-height:100%;position:relative;}
 body{-webkit-overflow-scrolling:touch;-webkit-font-smoothing:antialiased;margin-bottom:35px;background:url("../img/bg.png") repeat scroll 0 0;font-family:Open Sans;}
 *{-webkit-transition:all 0.3s ease;transition:all 0.3s ease;}
